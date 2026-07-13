@@ -1,1 +1,1 @@
-# MTA-STS
+# mta-sts
